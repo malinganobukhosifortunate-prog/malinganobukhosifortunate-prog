@@ -43,7 +43,7 @@ https://github.com/malinganobukhosifortunate-prog/esg-banking-risk-model
 
 ### Stock-performance-financial-analysis
 
-Explored the relationship between ESG performance and investment returns through portfolio risk-return analysis and sustainability metrics.
+Explored the relationship between historical stock data and financial fundamentals to identify high-performing companies and evaluate financial health using Return on Equity (ROE).
 
 Repository:
 https://github.com/malinganobukhosifortunate-prog/stock-performance-financial-analysis
