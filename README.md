@@ -41,12 +41,12 @@ https://github.com/malinganobukhosifortunate-prog/esg-banking-risk-model
 
 ---
 
-### Sustainable Finance Portfolio Analysis
+### Stock-performance-financial-analysis
 
 Explored the relationship between ESG performance and investment returns through portfolio risk-return analysis and sustainability metrics.
 
 Repository:
-https://github.com/malinganobukhosifortunate-prog/sustainable-finance-portfolio-analysis
+https://github.com/malinganobukhosifortunate-prog/stock-performance-financial-analysis
 
 ---
 
