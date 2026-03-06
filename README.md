@@ -1,6 +1,6 @@
 # Nobukhosi Fortunate Malinga
 
-Environmental Data Analyst | ESG & Sustainability Analytics | GIS & Remote Sensing
+ESG & Sustainability Analytics|Data Science Enthusiast|Environmental Data Analyst|Reseacher|GIS & Remote Sensing
 
 I am a Master's researcher in Environmental Science specialising in GIS and Remote Sensing. My work focuses on analysing environmental datasets, sustainability indicators, and spatial information to support environmental monitoring and sustainable decision-making.
 
