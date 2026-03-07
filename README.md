@@ -49,6 +49,14 @@ Repository:
 https://github.com/malinganobukhosifortunate-prog/stock-performance-financial-analysis
 
 ---
+### Personal Finance Risk Analyzer 
+
+Built a machine learning model using Random Forest to predict personal financial risk using credit score, debt-to-income, and savings indicators.
+
+Repository:
+https://github.com/malinganobukhosifortunate-prog/personal-finance-risk-analyzer.
+
+---
 
 ### Power BI Water Security Dashboard
 
