@@ -32,6 +32,13 @@ Google Colab • GitHub • Excel
 
 ## Featured Projects
 
+### Climate Buddy App
+
+Climate Buddy is a sustainability micro-learning and habit-building app that helps people develop daily environmental actions.The application designed to encourage sustainable behaviour through daily climate facts, quizzes, and conservation challenges. The app focuses on **water security, environmental conservation, and plastic pollution.
+
+Repository;
+https://github.com/malinganobukhosifortunate-prog/climate-buddy-mvp
+
 ### ESG Banking Risk Model
 
 Analysed corporate sustainability metrics to build an ESG risk scoring framework simulating environmental risk screening used in sustainable finance.
